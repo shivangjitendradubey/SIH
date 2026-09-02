@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "resqzone-sample-hazard-zones",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "zone_name": "Raigad Flood Corridor", "hazard_type": "Flood", "risk_level": "CRITICAL" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.05,18.20],[73.20,18.20],[73.20,18.30],[73.05,18.30],[73.05,18.20]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone_name": "Ratnagiri Coastal Erosion Belt", "hazard_type": "Coastal Erosion", "risk_level": "HIGH" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.28,16.95],[73.38,16.95],[73.38,17.05],[73.28,17.05],[73.28,16.95]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone_name": "Sahyadri Landslide Ridge", "hazard_type": "Landslide", "risk_level": "MODERATE" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.70,18.58],[73.82,18.58],[73.82,18.66],[73.70,18.66],[73.70,18.58]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone_name": "Meghalaya Cloudburst Zone", "hazard_type": "Cloudburst", "risk_level": "HIGH" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[91.68,25.25],[91.80,25.25],[91.80,25.35],[91.68,25.35],[91.68,25.25]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "zone_name": "Kendrapara Flood Basin", "hazard_type": "Flood", "risk_level": "CRITICAL" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[86.35,20.45],[86.50,20.45],[86.50,20.58],[86.35,20.58],[86.35,20.45]]]
+      }
+    }
+  ]
+}

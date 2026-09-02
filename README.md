@@ -247,3 +247,16 @@ overstate its own capabilities.
   precise population counts for a lighter "public" data-sensitivity posture.
 - Hazard zone polygons are static sample GeoJSON, not live satellite/remote-sensing
   data — swap `data/sample-hazards.geojson` for real data to go beyond the demo.
+
+---
+
+## 👥 Credits
+This platform was envisioned, designed, and developed by:
+
+* **Project Owner & Lead Developer:** [Shivang Dubey](https://shivangdubey.site.je/)
+* **Core Engineering & Analytics Team:**
+  * Divya Behera
+  * Shriya Bowlekar
+  * Aryan Gupta
+  * Anurag Giri
+  * Amit Kushwaha
